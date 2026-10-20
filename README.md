@@ -15,4 +15,4 @@ The workflow consists of three main stages:
 - `kmodes_clustering.py` — Final K-Modes clustering.
 
 ## Dataset Availability
-The original transaction dataset is not publicly available due to business confidentiality. Therefore, the repository provides the implementation code without the original dataset or confidential experimental outputs.
+Transaction data for Kaja Kangin Warung are included in this repository. However, the transaction data for Ely’s Kitchen are not publicly available due to business confidentiality and privacy restrictions. The repository provides the implementation code for the proposed sequential hybrid clustering approach, while access to Ely’s Kitchen data and related confidential outputs is restricted.
